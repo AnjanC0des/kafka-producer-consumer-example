@@ -1,0 +1,7 @@
+kafka/*
+myProducer/*
+
+!myProducer/
+!myProducer/src/
+!myProducer/pom.xml
+
