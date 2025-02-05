@@ -1,7 +1,10 @@
 kafka/*
 myProducer/*
+myConsumer/*
 
 !myProducer/
 !myProducer/src/
 !myProducer/pom.xml
-
+!myConsumer/
+!myConsumer/src/
+!myConsumer/pom.xml
